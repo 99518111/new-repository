@@ -1,0 +1,1 @@
+ssh -i "kajol.pem" ubuntu@ec2-54-152-210-212.compute-1.amazonaws.com
